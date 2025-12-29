@@ -17,9 +17,9 @@
 :root {
   --radius: 8px;
   --font-family-base: "Newsreader";
-  --font-size-base: 20px;
-  --content-max-width: 800px;
-  --content-padding: 0 20px;
+  --font-size-base: 1.25rem;
+  --content-max-width: 44rem;
+  --content-padding: 0 1rem;
   --focus-color: #458588;
 }
 
