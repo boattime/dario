@@ -713,7 +713,6 @@ blockquote {
   padding: 0.5em 1em;
   background-color: var(--bg-color-soft);
   color: var(--text-color-muted);
-  font-style: italic;
 }
 
 blockquote p {
